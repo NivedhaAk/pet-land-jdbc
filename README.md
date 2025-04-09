@@ -22,7 +22,7 @@ Pet Land is a simple Java JDBC console application that allows users to:
 ## How to Run
 1. Clone the repository.
 2. Configure your IDE (like IntelliJ IDEA or Eclipse).
-3. Add MySQL Connector/J (9.2.0) to the project libraries.(configure build path and in libraries add in classpath)
+3. Add MySQL Connector/J (9.2.0) to the project libraries.
 4. Update database credentials inside `database.properties`.
 5. Run the `Main.java` file.
 
